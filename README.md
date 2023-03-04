@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @comesaignol
 - 👀 I’m interested in Digital Humanities
-- 🌱 I’m currently learning eXist-DB
 - 💞️ I’m looking to collaborate on XVIIe century project
-- 📫 How to reach me : http://comesaignol.fr/ or https://twitter.com/ComeSaignol
+- 📫 How to reach me : https://twitter.com/ComeSaignol
